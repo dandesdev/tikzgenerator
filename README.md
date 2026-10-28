@@ -1,3 +1,7 @@
+> **Este repositório foi arquivado.** O GeoSimples continua em [dandesdev/geosimples](https://github.com/dandesdev/geosimples), publicado em https://geosimples.vercel.app.
+>
+> **This repository is archived.** GeoSimples lives on at [dandesdev/geosimples](https://github.com/dandesdev/geosimples), live at https://geosimples.vercel.app.
+
 # GeoSimples: Criador de Figuras Geométricas
 
 Simplicidade na criação de figuras geométricas. Desenhada para educadores (e por um educador), especialmente os criadores de conteúdo educativo, como materiais didáticos e testes.
